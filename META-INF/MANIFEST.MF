@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_40-b26 (Oracle Corporation)
+Class-Path: lib/cmu_time_awb.jar lib/cmu_us_kal.jar lib/cmudict04.jar 
+ lib/cmulex.jar lib/cmutimelex.jar lib/en_us.jar lib/freetts-jsapi10.j
+ ar lib/freetts.jar lib/mbrola.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: clock
+
